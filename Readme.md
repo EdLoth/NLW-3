@@ -2,10 +2,9 @@
 <strong>Web and API, created in "Next Level week #3", with Stack JS, React and Node.<strong/>
 
 :white_check_mark: **Technologies Used:**
-- React Native
-- React
-- Node.js
-- JavaScript
+- React with Typescript support
+- TypeScript
+- CSS3
 
 :white_check_mark: **Freameworks:**
 - Expo
@@ -34,21 +33,3 @@
 
 **<hr/>**
 
-**Comandos Native**
-
-* Instalar o Expo-cli
-
-`npm install -g expo-cli`
-
-* Inicializar uma aplicação
-
-`expo init nome_projeto`
-
-* Instalar dependências
-
-`npm install`
-
-* Start na aplicação
-
-`npm start`
-**<hr/>**
